@@ -1,3 +1,0 @@
-/Users/danildzyuba/Desktop/eva/clauren_cub3d/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/danildzyuba/Desktop/eva/clauren_cub3d/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/danildzyuba/Desktop/eva/clauren_cub3d/cmake-build-debug/CMakeFiles/cub3d.dir
