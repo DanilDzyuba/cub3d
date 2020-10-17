@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/danildzyuba/Desktop/eva/clauren_cub3d/gnl/get_next_line.h
+unistd.h
+-
+stdlib.h
+-
+../libft/libft.h
+/Users/danildzyuba/Desktop/eva/clauren_cub3d/libft/libft.h
+
+/Users/danildzyuba/Desktop/eva/clauren_cub3d/includes/cub3d.h
+stdio.h
+-
+math.h
+-
+fcntl.h
+-
+../libft/libft.h
+/Users/danildzyuba/Desktop/eva/clauren_cub3d/libft/libft.h
+../gnl/get_next_line.h
+/Users/danildzyuba/Desktop/eva/clauren_cub3d/gnl/get_next_line.h
+../minilibx/mlx.h
+/Users/danildzyuba/Desktop/eva/clauren_cub3d/minilibx/mlx.h
+keys.h
+/Users/danildzyuba/Desktop/eva/clauren_cub3d/includes/keys.h
+
+/Users/danildzyuba/Desktop/eva/clauren_cub3d/includes/keys.h
+
+/Users/danildzyuba/Desktop/eva/clauren_cub3d/libft/libft.h
+stdlib.h
+-
+unistd.h
+-
+
+/Users/danildzyuba/Desktop/eva/clauren_cub3d/minilibx/mlx.h
+
+/Users/danildzyuba/Desktop/eva/clauren_cub3d/parser.c
+includes/cub3d.h
+/Users/danildzyuba/Desktop/eva/clauren_cub3d/includes/cub3d.h
+
